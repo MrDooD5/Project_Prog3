@@ -4,7 +4,7 @@
 <?import javafx.scene.layout.*?>
 
 
-<Pane fx:controller="MailClient.readController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="348.0" prefWidth="508.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+<Pane fx:controller="MailClient.ReadController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="348.0" prefWidth="508.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <TextField layoutX="124.0" layoutY="20.0" prefHeight="25.0" prefWidth="316.0" />
       <TextField layoutX="124.0" layoutY="61.0" />
